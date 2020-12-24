@@ -2,6 +2,7 @@
 Edit by zhyin in Dec23,2020
 * Description : Create a new overlapped Speech dataset based on LibriSpeech 
 * Principle: 
+![image](https://github.com/zhaohyin/Random-delay-LibriMix/blob/master/png/libmix_random_delay-Dec23.png?raw=true)
 1. Set the loudness of each voice. A linear transformation was used in this progress.
 2. Set the delay between voice randomly.The min_delay is 0.5sec, and the max_delay is length of the last voice. The mixture progress of three voice can be expressed as:  
   
