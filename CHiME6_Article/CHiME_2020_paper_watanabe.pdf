@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+ <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>CHiME-2020 Workshop</title>
+<meta name="generator" content="Jekyll v3.8.7" />
+<meta property="og:title" content="CHiME-2020 Workshop" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://chimechallenge.github.io/chime2020-workshop/404.html" />
+<meta property="og:url" content="https://chimechallenge.github.io/chime2020-workshop/404.html" />
+<meta property="og:site_name" content="CHiME-2020 Workshop" />
+<script type="application/ld+json">
+{"@type":"WebPage","url":"https://chimechallenge.github.io/chime2020-workshop/404.html","headline":"CHiME-2020 Workshop","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/chime2020-workshop/assets/main.css">
+  <link rel="stylesheet" href="/chime2020-workshop/assets/workshopstyle.css"><link type="application/atom+xml" rel="alternate" href="https://chimechallenge.github.io/chime2020-workshop/feed.xml" title="CHiME-2020 Workshop" /><script src="/chime2020-workshop/assets/javascript/bootstrap/jquery.min.js"></script>
+  <script src="/chime2020-workshop/assets/javascript/bootstrap/bootstrap.bundle.min.js"></script>
+</head>
+<body>  <div class="row chime-lblue-panel" style="padding:4px">
+    <div class="col-md-3 align-self-center">
+      <div class="container">
+        <img class="img-responsive" src="/chime2020-workshop/assets/images/cwlogo_s.png" alt="chime logo"></img> 
+      </div>
+    </div>
+    <div class="col-md-9 align-self-center">
+        <div class="container" style="font-size:26px">
+          The 6th International Workshop on
+          Speech Processing in Everyday Environments
+        </div>
+    </div>
+  </div>
+
+<nav class="py-0 navbar navbar-expand-sm navbar-dark chime-dblue-panel">
+  <div class="container align-self-center">
+      
+      <a class="navbar-brand navbar" rel="author" href="/chime2020-workshop/"> Home</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto"><li class="nav-item">
+            <a class="nav-link" href="/chime2020-workshop/virtualworkshop.html">Virtual Workshop</a>
+          </li><li class="nav-item">
+            <a class="nav-link" href="/chime2020-workshop/dates.html">Important Dates</a>
+          </li><li class="nav-item">
+            <a class="nav-link" href="/chime2020-workshop/submissions.html">Submission</a>
+          </li><li class="nav-item">
+            <a class="nav-link" href="/chime2020-workshop/registration.html">Registration</a>
+          </li><li class="nav-item">
+            <a class="nav-link" href="/chime2020-workshop/programme.html">Programme</a>
+          </li><li class="nav-item">
+            <a class="nav-link" href="/chime2020-workshop/organisers.html">Organisers</a>
+          </li><li class="nav-item">
+          <!--<a class="nav-link" href="https://github.com/chimechallenge/chime2020-workshop">Fork me on Github</a>-->
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+<div class="bg-light py-1">
+      <div class="container page-content">
+          <div class="container text-center">
+  <h1>404</h1>
+
+  <p><strong>Page not found :(</strong></p>
+  <p>The requested page could not be found.</p>
+</div>
+
+      </div>
+    </div>
+<div class="py-1 border-top">
+  <div class="container">
+
+    <div class="row">
+
+      <div class="col-sm">
+          <a href="/chime2020-workshop/">CHiME-2020 Workshop</a>
+      </div>
+
+      <div class="col-sm text-right">
+          <a href="mailto:chimechallenge@gmail.com">chimechallenge@gmail.com</a>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+</body>
+
+</html>
